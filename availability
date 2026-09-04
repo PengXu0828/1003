@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "SapUtilityCenter",
+  "enabled": true,
+  "notBeforeUtc": "2026-09-01T00:00:00Z",
+  "expiresAtUtc": "2027-12-31T15:59:59Z",
+  "minimumVersion": "1.0.0",
+  "issuedAtUtc": "2026-09-04T08:00:00Z",
+  "sequence": 1,
+  "message": "SAP Utility Center 当前可以正常使用。"
+}
