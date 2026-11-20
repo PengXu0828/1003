@@ -6,6 +6,6 @@
   "expiresAtUtc": "2027-12-03T05:00:00+00:00",
   "minClientVersion": "2.7.4",
   "blockedClientVersions": [],
-  "notice": "停止",
+  "notice": "",
   "signature": "MEQCIFl1zpwD5uGelub53gEZXY9tI5Fwlqa2hgXMP6iyxpw1AiB3BLyScJ4yPSAxqxcWjo96rIvR2/cdxC7Id1vwvTg4Uw=="
 }
