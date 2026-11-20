@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "seq": 1,
+  "seq": 2,
   "enabled": true,
   "effectiveFromUtc": "2026-11-20T03:00:00+00:00",
   "expiresAtUtc": "2027-12-03T05:00:00+00:00",
   "minClientVersion": "2.7.4",
   "blockedClientVersions": [],
   "notice": "",
-  "signature": "MEQCIFl1zpwD5uGelub53gEZXY9tI5Fwlqa2hgXMP6iyxpw1AiB3BLyScJ4yPSAxqxcWjo96rIvR2/cdxC7Id1vwvTg4Uw=="
+  "signature": "MEYCIQDvUbb5LqtZpQxBl9N9fFYrzFcUSK7vPQIXAVs38HX8fQIhAJD17X2V1/YDn9IKp8RbiE2nHc1tzq5RZha4f0Gp1JPZ"
 }
